@@ -52,11 +52,16 @@
 
 ## 협업
 |Git|Jira|
-|---|---|
+|:-:|:-:|
 |![](https://file.notion.so/f/f/76e8c7f6-e462-408c-a879-699481ad4acb/450424b1-146a-4dfc-9622-d744a618ac8c/Untitled.png?id=71738569-fa74-485a-b50d-3fa31c5b44d5&table=block&spaceId=76e8c7f6-e462-408c-a879-699481ad4acb&expirationTimestamp=1721844000000&signature=ihFBipZv8ZriGNQV93jDLindxAXEXS6LYsULDGzelic&downloadName=Untitled.png)|![](https://file.notion.so/f/f/76e8c7f6-e462-408c-a879-699481ad4acb/04890238-e45a-4583-bb4d-4b157a71327d/Untitled.png?id=e6021fd4-71a2-42f0-8237-a20c215032a0&table=block&spaceId=76e8c7f6-e462-408c-a879-699481ad4acb&expirationTimestamp=1721844000000&signature=8MEh_qmoiyozznIEG9jptuh4geuHwpRLTTQ8wE-2D_o&downloadName=Untitled.png)
+|Notion|Figma|
+|![image](https://github.com/user-attachments/assets/c03d7f6d-43a2-46c9-88f2-2f18156f8b76)|![image](https://github.com/user-attachments/assets/606e6f75-187a-464b-ac72-aedcc02cef0d)|
 
 ## 아키텍처 구조도
 ![아키텍처](https://file.notion.so/f/f/76e8c7f6-e462-408c-a879-699481ad4acb/6ab988bd-5f89-4626-97f7-7d610c7a7452/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.drawio.png?id=2bee263f-941c-4e62-83ef-5fa39a40866e&table=block&spaceId=76e8c7f6-e462-408c-a879-699481ad4acb&expirationTimestamp=1721844000000&signature=WDY9d53n8aismekcJetUFfcnCyBL7Gu3oGwP_IxGeJI&downloadName=%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.drawio.png)
+
+
+
 
 ## 프로젝트 구조
 ### 프론트엔드
